@@ -19,8 +19,6 @@ A smart contract to show how an escrow works
 * Remix-IDE
 
 
-
-
 ## Contributors
 
 * github.com/olaoyesalem.com
