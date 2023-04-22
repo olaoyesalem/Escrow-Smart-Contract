@@ -12,6 +12,8 @@
 * [Contributors](#contributors)
 * [Status](#status)
 
+
+
 ## General info
 A smart contract to show how an escrow works
 
@@ -33,6 +35,7 @@ This project is completed
 
 ## Inspiration
 https://learnweb3.io/
+
 
 
 
